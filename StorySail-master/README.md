@@ -2,7 +2,9 @@
 
 The Story Sail app is a mobile application built using Expo and React Native. It allows users to explore and discover captivating stories from various genres. With an intuitive user interface, users can easily navigate through the app and immerse themselves in a world of storytelling. Whether it's a thrilling mystery, a heartwarming romance, or an epic adventure, Story Sail has something for everyone. Get ready to embark on a journey of imagination and let the stories unfold with Story Sail.
 
+## Live Link
 
+https://appetize.io/app/ois7jgwgusxskbwquhyvmickfi?device=pixel7&osVersion=13.0&toolbar=true
 
 ## Screen-Recording
 
