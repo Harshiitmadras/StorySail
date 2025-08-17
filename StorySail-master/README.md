@@ -6,10 +6,6 @@ The Story Sail app is a mobile application built using Expo and React Native. It
 
 https://appetize.io/app/ois7jgwgusxskbwquhyvmickfi?device=pixel7&osVersion=13.0&toolbar=true
 
-## Screen-Recording
-
-<img src="https://github.com/mshivam019/StorySail/blob/master/file.gif">
-
 
 ## Technologies Used
 * Expo (React Native)
